@@ -1,0 +1,4 @@
+API_ID = 11111111
+API_HASH = "111111111111111111"
+
+SESSION_NAME = "Telegram-Forward-Delete"
